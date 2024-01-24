@@ -1,26 +1,25 @@
 ## About Me
 
 - 🤔 Exploring news techs and developing software solutions
-- 🎓 Studying at {FullCyle}, {Software Architecture}.
-- 💼 Working as {CTO} in {EngenhAção}.
-- 🌱 Learning more about {AWS}.
+- 🎓 Studying FullCyle Software Architecture.
+- 💼 Working as CTO in EngenhAção.
+- 🌱 Learning more about AWS.
 
 ## My skills
-
-**Aplicações e dados**
 
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+![SQL](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=SQL)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=Java&logoColor=007396)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=007396)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
-**Utilidades**
+**Utilities**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -33,13 +32,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=travis)
 
-<br/>
 
-<a href="https://github.com/brunosduarte" title="Bruno's">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunosduarte&theme=nord&show_icons=true" />
-</a>
-
-## Onde me encontrar
+## Where Find Me
 
 [![Linkedin](https://img.shields.io/badge/-brunosduarte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunosduarte)](https://www.linkedin.com/in/brunosduarte)
 [![GitHub](https://img.shields.io/github/followers/brunosduarte?label=follow&style=social)](LINK-DO-SEU-GITHUB)
