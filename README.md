@@ -1,9 +1,9 @@
 ## About Me
 
-- 🤔 Exploring news techs and developing software solutions
-- 🎓 Studying FullCyle Software Architecture.
+- 🤔 Exploring new techs and developing software solutions
+- 🎓 Studying FullCycle Software Architecture.
 - 💼 Working as CTO in EngenhAção.
-- 🌱 Learning more about AWS.
+- 🌱 Learning more about Cloud.
   
 
 
