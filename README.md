@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+![](https://komarev.com/ghpvc/?username=brunosduarte&color=006bed)
 
 ## Sobre mim
 
@@ -51,9 +51,8 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunosduarte)](https://www.linkedin.com/in/brunosduarte)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin](https://img.shields.io/badge/-brunosduarte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunosduarte)](https://www.linkedin.com/in/brunosduarte)
+[![GitHub](https://img.shields.io/github/followers/brunosduarte?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunosduarte&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunosduarte&layout=compact&theme=nord)
