@@ -33,10 +33,9 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
 
-<p>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunosduarte&layout=compact&theme=nord)
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunosduarte&layout=compact&theme=nord" alt="brunosduarte" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunosduarte&layout=compact&theme=nord)
+
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunosduarte&layout=compact&theme=nord" alt="brunosduarte" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunosduarte&label=Profile%20views&color=0e75b6&style=flat" alt="brunosduarte" /> </p>
 
