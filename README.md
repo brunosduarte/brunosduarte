@@ -9,7 +9,7 @@
 ## My skills
 
 [![React.js](https://img.shields.io/badge/React.js-gray?logo=React)](https://react.dev)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react&logoColor=purple)
 [![Node.js](https://img.shields.io/badge/Node.js-gray?logo=Node.js)](https://nodejs.org)
 [![OpenAI](https://img.shields.io/badge/OpenAI-gray?logo=OpenAI)](https://openai.com)
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-gray?logo=FFmpeg)](https://ffmpeg.org)
