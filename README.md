@@ -4,8 +4,10 @@ Dynamic Lead Full-Stack Engineer with 5+ years of experience in architecting and
 
 I help companies:
 
- 💰 Drive Operational Excellence: Spearheaded transformative projects resulting in a increase in operational efficiency and productivity.
+ 💰 Drive Operational Excellence: Spearheaded transformative projects resulting in an increase in operational efficiency and productivity.
+ 
  🌐 Ensure Infrastructure Scalability: Engineered high-availability infrastructures, ensuring seamless scalability for evolving business demands.
+ 
  🚀 Maximize Impactful Software Delivery: Led cross-functional teams to deliver impactful software solutions, contributing to business growth and success.
 
 Open to:
