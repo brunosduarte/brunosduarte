@@ -8,18 +8,6 @@ I help companies:
  🌐 Ensure Infrastructure Scalability: Engineered high-availability infrastructures, ensuring seamless scalability for evolving business demands.
  🚀 Maximize Impactful Software Delivery: Led cross-functional teams to deliver impactful software solutions, contributing to business growth and success.
 
-
-Main Technologies and Skills:
-
- >> JavaScript | TypeScript
- >> NodeJS | ExpressJS | NestJS
- >> ReactJS | React Native | NextJS
- >> Styled Components | TailwindCSS | Sass
- >> Redux | Zustand | Prisma
- >> PostgreSQL | MongoDB | MySQL
- >> Docker | Apache Kafka | AWS (Amazon Web Services)
- >> IoT | C++ | MQTT | and much more...
-
 Open to:
  Relocation
  Remote work opportunities
@@ -27,7 +15,6 @@ Open to:
 Eager to collaborate on transformative projects and contribute to organizational success.
 Let's connect and explore the possibilities!
   
-
 ## My skills
 
 [![React.js](https://img.shields.io/badge/React.js-gray?logo=React)](https://react.dev)
