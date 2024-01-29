@@ -1,9 +1,31 @@
 ## About Me
 
-- 🤔 Exploring new techs and developing software solutions
-- 🎓 Studying Full Cycle Software Architecture.
-- 💼 Working as CTO in EngenhAção.
-- 🌱 Learning more about Cloud.
+Dynamic Lead Full-Stack Engineer with 5+ years of experience in architecting and managing end-to-end development-to-production infrastructures. I catalyze organizational success by empowering companies to achieve extraordinary outcomes through strategic technology implementation and leadership.
+
+I help companies:
+
+ 💰 Drive Operational Excellence: Spearheaded transformative projects resulting in a increase in operational efficiency and productivity.
+ 🌐 Ensure Infrastructure Scalability: Engineered high-availability infrastructures, ensuring seamless scalability for evolving business demands.
+ 🚀 Maximize Impactful Software Delivery: Led cross-functional teams to deliver impactful software solutions, contributing to business growth and success.
+
+
+Main Technologies and Skills:
+
+ >> JavaScript | TypeScript
+ >> NodeJS | ExpressJS | NestJS
+ >> ReactJS | React Native | NextJS
+ >> Styled Components | TailwindCSS | Sass
+ >> Redux | Zustand | Prisma
+ >> PostgreSQL | MongoDB | MySQL
+ >> Docker | Apache Kafka | AWS (Amazon Web Services)
+ >> IoT | C++ | MQTT | and much more...
+
+Open to:
+ Relocation
+ Remote work opportunities
+
+Eager to collaborate on transformative projects and contribute to organizational success.
+Let's connect and explore the possibilities!
   
 
 ## My skills
