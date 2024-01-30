@@ -1,21 +1,10 @@
 ## About Me
 
-Dynamic Lead Full-Stack Engineer with 5+ years of experience in architecting and managing end-to-end development-to-production infrastructures. I catalyze organizational success by empowering companies to achieve extraordinary outcomes through strategic technology implementation and leadership.
-
-I help companies:
-
- 💰 Drive Operational Excellence: Spearheaded transformative projects resulting in an increase in operational efficiency and productivity.
- 
- 🌐 Ensure Infrastructure Scalability: Engineered high-availability infrastructures, ensuring seamless scalability for evolving business demands.
- 
- 🚀 Maximize Impactful Software Delivery: Led cross-functional teams to deliver impactful software solutions, contributing to business growth and success.
-
-Open to:
- Relocation
- Remote work opportunities
-
-Eager to collaborate on transformative projects and contribute to organizational success.
-Let's connect and explore the possibilities!
+Technical knowledge in automation, instrumentation, and programming, along with understanding the synergy among these areas as a process.
+A proactive professional who knows the pathways to solve emerging problems, with a solid foundation, allowing for easy association of knowledge and its application.
+Passionate about turning ideas into reality.
+Embracing the concept of lifelong learning.
+In a continuous pursuit of knowledge and improvements.
   
 ## My skills
 
