@@ -20,7 +20,7 @@ Let's connect and explore the possibilities!
 ## My skills
 
 [![React.js](https://img.shields.io/badge/React.js-gray?logo=React)](https://react.dev)
-![React Native](https://img.shields.io/badge/React%20Native-gray&logo=react&logoColor=purple)](https://reactnative.dev)
+[![React Native](https://img.shields.io/badge/React.js-gray?logo=React&logoColor=purple)](https://reactnative.dev)
 [![Node.js](https://img.shields.io/badge/Node.js-gray?logo=Node.js)](https://nodejs.org)
 [![OpenAI](https://img.shields.io/badge/OpenAI-gray?logo=OpenAI)](https://openai.com)
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-gray?logo=FFmpeg)](https://ffmpeg.org)
