@@ -28,12 +28,9 @@ Let's connect and explore the possibilities!
 [![Next.js](https://img.shields.io/badge/Next.js-gray?logo=Next.js)](https://nextjs.org)
 [![Cypress](https://img.shields.io/badge/Cypress-gray?logo=Cypress)](https://docs.cypress.io)
 [![Jest](https://img.shields.io/badge/Jest-gray?logo=Jest)](https://jest.io)
-
-
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql&logoColor=007396)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-gray?logo=postgresql&logoColor=007396)
+![MongoDB](https://img.shields.io/badge/-MongoDB-gray?logo=mongodb)
+![AWS](https://img.shields.io/badge/-AWS-gray?logo=amazon)
 [![RadixUI](https://img.shields.io/badge/RadixUI-gray?logo=Radix+UI)](https://www.radix.com)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-gray?logo=Tailwind+CSS)](https://www.tailwindcss.com)
 [![Fastify](https://img.shields.io/badge/Fastify-gray?logo=Fastify)](https://www.fastify.dev)
