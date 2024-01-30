@@ -39,7 +39,7 @@ Let's connect and explore the possibilities!
 [![Axios](https://img.shields.io/badge/Axios-gray?logo=Axios)](https://www.axios-http.com)
 ![C++](https://img.shields.io/badge/-C++-gray?logo=C%2B%2B&logoColor=00599C)
 [![Vite](https://img.shields.io/badge/Vite-gray?logo=Vite)](https://vitejs.org)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-gray?logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-gray?logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-gray?logo=CSS3&logoColor=1572B6)
 [![NodeMailer](https://img.shields.io/badge/NodeMailer-gray?logo=Minutemailer)](https://nodemailer.com)
