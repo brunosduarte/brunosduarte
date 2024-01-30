@@ -27,8 +27,11 @@ Let's connect and explore the possibilities!
 [![TypeScript](https://img.shields.io/badge/TypeScript-gray?logo=TypeScript)](https://www.typescriptlang.org)
 [![Next.js](https://img.shields.io/badge/Next.js-gray?logo=Next.js)](https://nextjs.org)
 [![Cypress](https://img.shields.io/badge/Cypress-gray?logo=Cypress)](https://docs.cypress.io)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=007396)
+[![Jest](https://img.shields.io/badge/Jest-gray?logo=Jest)](https://jest.io)
+
+
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql&logoColor=007396)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
 [![RadixUI](https://img.shields.io/badge/RadixUI-gray?logo=Radix+UI)](https://www.radix.com)
