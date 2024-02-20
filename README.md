@@ -43,9 +43,6 @@ In a continuous pursuit of knowledge and improvements.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunosduarte&layout=compact&theme=nord)
 
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunosduarte&layout=compact&theme=nord" alt="brunosduarte" />
-
-
 ## Where Find Me
 
 [![Linkedin](https://img.shields.io/badge/-brunosduarte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunosduarte)](https://www.linkedin.com/in/brunosduarte)
